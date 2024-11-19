@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://api.openai.com/v1/chat/completions:1                         Failed to load resource: the server responded with a status of 404 ()",
+            "request": "launch",
+            "url": "http://api.openai.com/v1/chat/completions:1                         Failed to load resource: the server responded with a status of 404 ()"
+        }
+    ]
+}
