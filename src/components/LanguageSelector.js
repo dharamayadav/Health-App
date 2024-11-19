@@ -9,6 +9,7 @@ const LanguageSelector = ({ inputLang, setInputLang, outputLang, setOutputLang }
                 <option value="es">Spanish</option>
                 <option value="fr">French</option>
                 <option value="hi">Hindi</option>
+                
             </select>
         </label>
         <label>
